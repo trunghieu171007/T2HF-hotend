@@ -8,7 +8,7 @@ T2HF là hotend mã nguồn mở được lấy cảm hứng từ [CHUBE hotend]
 - Mặc định sử dụng tản nhiệt nước để tránh tình trạng kẹt nhựa do nhiệt độ bị đẩy ngược lên heatsink
 
 # Vật liệu sử dụng:
-- Heatblock: tôi đưa ra 2 gợi ý liệu cho heatblock tuỳ vào nhu cầu của bạn
+- Heatblock: minhf đưa ra 2 gợi ý liệu cho heatblock tuỳ vào nhu cầu của bạn
     - Nhôm 6061: dễ phay bằng máy CNC, phù hợp để in nhựa cơ bản (ABS, PETG, PLA, ...), giá thành khá rẻ và phổ biến
     - Đồng crom (C18150): vật liệu này khó phay bằng máy CNC thông thường vì có độ dính
 và có thể làm gãy dao, nặng gấp 3 so với nhôm 6061 nhưng đây là lựa chọn hoàn hảo cho vật liệu kỹ thuật cao, (Goliath
