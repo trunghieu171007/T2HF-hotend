@@ -1,4 +1,4 @@
-<img width="1185" height="1390" alt="image" src="https://github.com/user-attachments/assets/b9855cf6-fd22-4bbc-a747-3c1736b0e18b" />![pictures of the hotend cad](https://tricornhotend.com/Tricornbanner.png)
+![pictures of the hotend cad](https://tricornhotend.com/Tricornbanner.png)
 T2HF là hotend mã nguồn mở được lấy cảm hứng từ [CHUBE hotend](https://chubehotend.com/)
 - Sử dụng heatbreak cơ bản của E3D v6
 - Ngàm gắn tương tự [Goliath](https://github.com/VzBoT3D/Goliath), có thể sử dụng chung với [vz-printhead](https://github.com/VzBoT3D/Vz-Printhead-Printed)
