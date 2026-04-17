@@ -1,5 +1,6 @@
 ![pictures of the hotend cad](https://tricornhotend.com/Tricornbanner.png)
 T2HF là hotend mã nguồn mở được lấy cảm hứng từ [CHUBE hotend](https://chubehotend.com/)
+- Đây là hotend supper ultra pro max plus ultimate extreme high flow (rơi vào khoảng 80mm^3/s)
 - Sử dụng heatbreak cơ bản của E3D v6
 - Ngàm gắn tương tự [Goliath](https://github.com/VzBoT3D/Goliath), có thể sử dụng chung với [vz-printhead](https://github.com/VzBoT3D/Vz-Printhead-Printed)
 - Vùng nung nóng dài 44mm (chưa tính nozzle) và dài 47mm (đã tính nozzle)
