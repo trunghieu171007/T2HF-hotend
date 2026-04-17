@@ -31,11 +31,10 @@ Nếu bạn yêu thích dự án này, bạn có thể ủng hộ tôi qua các 
   </tr>
   <tr>
     <td align="center">
-      <img src="<img width="859" height="878" alt="Image" src="https://github.com/user-attachments/assets/f38ff8ab-42bb-4476-b6fa-726aef893bc7" />
-" alt="MoMo QR" width="280">
+      <img src="https://github.com/user-attachments/assets/f38ff8ab-42bb-4476-b6fa-726aef893bc7" alt="MoMo QR" width="280">
     </td>
     <td align="center">
-      <img src="<img width="838" height="1022" alt="Image" src="https://github.com/user-attachments/assets/f4b433be-8a59-41de-b7e6-5159cf279cc2" />" alt="Crypto QR" width="280">
+      <img src="https://github.com/user-attachments/assets/f4b433be-8a59-41de-b7e6-5159cf279cc2" alt="Crypto QR" width="280">
     </td>
   </tr>
   <tr>
